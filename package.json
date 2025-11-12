@@ -1,0 +1,29 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "aulas de node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGuilhermeSneto/Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGuilhermeSneto/Node.js/issues"
+  },
+  "homepage": "https://github.com/JGuilhermeSneto/Node.js#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
